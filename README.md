@@ -31,6 +31,7 @@ Linux is a powerful and versatile operating system used widely for both personal
 ## Installation
 
 ### Choosing a Linux Distribution
+![LinuxOS_logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQOanYwFsE96GOEGBggdGBVx_GQUZQ1i5uow&s)
 
 Different Linux distributions (distros) serve different purposes. Popular choices include:
 
