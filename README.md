@@ -165,3 +165,13 @@ chown john file1
 # Change owner and group of file1 to john and developers
 chown john:developers file1
 ```
+## Conclusion
+This document lists some important commands used in Linux to manage file permissions and ownership. These commands are essential for maintaining security and proper access control in a Linux system. By setting the correct permissions and ownership, you can ensure that only authorized users can read, write, or execute specific files. 
+
+Properly managing file permissions and ownership is crucial for system security and user collaboration. It ensures that files are accessible only to those who are supposed to have access, protecting sensitive data and maintaining system integrity.
+
+
+## References
+1. https://docs.kernel.org/
+2. RHEL 124 
+3. https://www.redhat.com/sysadmin/linux-user-group-management
