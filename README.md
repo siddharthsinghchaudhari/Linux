@@ -65,6 +65,8 @@ Different Linux distributions (distros) serve different purposes. Popular choice
 
 
 ## Managing Local Users and Groups
+![Screenshot from 2024-06-26 13-19-49](https://github.com/siddharthsinghchaudhari/Linux/assets/120357061/510ac52e-606b-48cd-95b9-3d212fe32a93)
+
 
 ### Adding Users
 
@@ -80,6 +82,8 @@ Different Linux distributions (distros) serve different purposes. Popular choice
 
 - `userdel [username]`: Delete a user.
 - `userdel -r [username]`: Delete a user and their home directory.
+
+![Screenshot from 2024-06-26 13-20-52](https://github.com/siddharthsinghchaudhari/Linux/assets/120357061/5c89614d-5431-44f0-9b0d-60fdc3378a75)
 
 ### Managing Groups
 
