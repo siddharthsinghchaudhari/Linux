@@ -61,6 +61,8 @@ Different Linux distributions (distros) serve different purposes. Popular choice
 - `rm [file]`: Remove files.
 - `mkdir [directory]`: Create a new directory.
 - `rmdir [directory]`: Remove an empty directory.
+- ![Screenshot from 2024-06-26 13-12-27](https://github.com/siddharthsinghchaudhari/Linux/assets/120357061/7554a881-d8a8-4a47-ae71-8645444ae60d)
+
 
 ## Managing Local Users and Groups
 
