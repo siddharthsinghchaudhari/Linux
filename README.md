@@ -48,6 +48,7 @@ Different Linux distributions (distros) serve different purposes. Popular choice
 ## Basic Command Line Usage
 
 ### Navigating the Filesystem
+![Screenshot from 2024-06-26 12-58-42](https://github.com/siddharthsinghchaudhari/Linux/assets/120357061/4ee45f34-5c69-4acf-b1cb-b34ef79e28cd)
 
 - `pwd`: Print working directory.
 - `cd [directory]`: Change directory.
