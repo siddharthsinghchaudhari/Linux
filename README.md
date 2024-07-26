@@ -485,7 +485,6 @@ Files have three types of permissions: read (r), write (w), and execute (x). The
 ### Changing Ownership
 
 - `chown [owner] [file]`: Change file owner.
-- `chown [owner]:[group] [file]`: Change file owner and group.
 
 ## Examples
 
@@ -511,26 +510,26 @@ rmdir dir1
 ### User and Group Management Commands
 
 ```sh
-# Add a new user named john
-useradd john
+# Add a new user named Govind
+useradd Govind
 
-# Set password for user john
-passwd john
+# Set password for user Govind
+passwd Govind
 
-# Add user john to the group sudo
-usermod -aG sudo john
+# Add user Govind to the group "sudo"
+usermod -aG sudo Govind
 
-# Delete user john and their home directory
-userdel -r john
+# Delete user Govind and their home directory
+userdel -r Govind
 
 # Create a new group named developers
 groupadd developers
 
-# Add user john to the developers group
-gpasswd -a john developers
+# Add user Govind to the developers group
+gpasswd -a Govind developers
 
 # Remove user john from the developers group
-gpasswd -d john developers
+gpasswd -d Govind developers
 ```
 ### Access Control Commands
 
@@ -538,11 +537,11 @@ gpasswd -d john developers
 # Change permissions of file1 to rwxr-xr-x
 chmod 755 file1
 
-# Change owner of file1 to user john
-chown john file1
+# Change owner of file1 to user Govind
+chown Govind file1
 
-# Change owner and group of file1 to john and developers
-chown john:developers file1
+# Change owner and group of file1 to Givind and developers
+chown Govind:developers file1
 ```
 ## Conclusion
 This document lists some important commands used in Linux to manage file permissions and ownership. These commands are essential for maintaining security and proper access control in a Linux system. By setting the correct permissions and ownership, you can ensure that only authorized users can read, write, or execute specific files. 
