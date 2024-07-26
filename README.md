@@ -53,6 +53,7 @@ Linux is a powerful and versatile operating system used widely for both personal
 - `pwd`: Print working directory.
 - `cd [directory]`: Change directory.
 - `ls`: List directory contents.
+
 ![Screenshot from 2024-06-26 12-58-42](https://github.com/siddharthsinghchaudhari/Linux/assets/120357061/4ee45f34-5c69-4acf-b1cb-b34ef79e28cd)
 
 `UPDATED COMMANDS`
@@ -187,10 +188,10 @@ d1  d2  d3  d4  F1  F1.txt  F2  F3  F4  KEENABLE
 
 **ls options**
 1. `ls -a` (all)- It is used for list all files including hidden files.
-2. `ls -s` (size)- It is used for list the biggest files first
-3. `ls -l` (long)- List all the attributes of all files in the current directory including(type, size, ownership, permissions)
-4. `ls -r` (reverse)- It is used for reverse the files in sort order
-5. `ls -t` (time)- It is used for presents the files in the order of their modification time, the last modified placed first.
+2. `ls -s` (size)- It is used for displaying size.
+3. `ls -l` (long)- List all the attributes of all files in the current directory including(type, size, ownership, permissions).
+4. `ls -r` (reverse)- It is used for sorting the files in reverse order.
+5. `ls -t` (time)- It is used for displays the files in the order of their modification time, the last modified file is placed first.
 
 ### 2. ll command
 * `ll` command stands for long list files. `ll` command lists the files and directories in our current directory in a long format, providing detailed information such as file permissions, number of links, owner, group, size, and time of last modification .
@@ -212,7 +213,7 @@ this content is in F2.txt
 
 ```
 
-**Read the file of content**
+**Read the content of file**
 ```bash
 sidharth@Sidharth:~/Desktop/LinuxTasks$ cat F2.txt
 this content is in F2.txt
@@ -390,7 +391,7 @@ this is written in F1.txt
 * `Space:` Move to the next page.
 * `Enter:` Move to the next line.
 * `b:` Move back one page.
-* `q:` Quit the more command.
+
 
 ### 9. Echo Command
 * `echo` command in linux is used for displaying text and variables.
