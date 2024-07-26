@@ -28,8 +28,9 @@
 
 Linux is a powerful and versatile operating system used widely for both personal and enterprise purposes. This guide covers essential aspects of Linux system administration, focusing on managing files, users, and access permissions through the command line interface.
 
-## Installation Process(For Virtual Machines)
+## Installation Process
 
+(For Virtual Machines)
 1. **Download ISO**: Obtain the installation ISO from the Ubuntu's official website.
 2. **Download VMware Workstation 17 player**: from official website of VMware
 3. **Open the VMware workstation 17 player** and select **Create new Virtual Machine**
