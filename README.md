@@ -41,11 +41,15 @@ Different Linux distributions (distros) serve different purposes. Popular choice
 - CentOS: Ideal for servers and enterprise environments.
 - Fedora: Cutting-edge features and ideal for developers.
 
-### Installation Process
+### Installation Process(For Virtual Machines)
 
-1. **Download ISO**: Obtain the installation ISO from the distro's official website.
-2. **Create Bootable Media**: Use tools like Rufus (Windows) or dd (Linux) to create a bootable USB drive.
-3. **Boot and Install**: Boot from the USB drive and follow the on-screen instructions to install the Linux distribution.
+1. **Download ISO**: Obtain the installation ISO from the Ubuntu's official website.
+2. **Download VMware Workstation 17 player**: from official website of VMware
+3. **Open the VMware workstation 17 player** and select **Create new Virtual Machine**
+4. **select the ISO file you downloade in first step**
+5. **follow through the instructions and set according to your need or go with default options**: I have given my screenshots for any reference.
+
+**Screenshots of Installation**
 
 ## Basic Command Line Usage
 
