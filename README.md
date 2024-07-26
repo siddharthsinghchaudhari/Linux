@@ -180,7 +180,7 @@ d1  d2  d3  d4  F1  F1.txt  F2  F3  F4  KEENABLE
 
 ```
 
-## Check File/Folder/Content command
+## Cmmand to Check File/Folder's Content 
 ### 1. ls command
 * `ls` is a shell command in linux. It is used to obtain a list of all content in the current directory.
 
@@ -341,7 +341,7 @@ sidharth@Sidharth:~/Desktop/LinuxTasks$ tail head.txt
 
 ```
 
-**For specify a number**
+**For displaying specific number of lines**
 ```bash
 sidharth@Sidharth:~/Desktop/LinuxTasks$ tail -3 head.txt
 10
@@ -352,25 +352,25 @@ sidharth@Sidharth:~/Desktop/LinuxTasks$ tail -3 head.txt
 Note: `Both head and tail are handy for quickly inspecting the beginning or end of a file, especially when dealing with log files, Large documents, or any text file with a significant amount of content.`
 
 ### 7. Less Command
-* `less` command is used to display a contents of a file in an orgnizes way.
-* `less` command allow us to navigate forwards and backwards through the file.
+* `less` command is used to display a contents of a file in an orgnized way.
+* `less` command allows us to navigate forward and backward through the file.
 * We can view multiple files with the help of `less` command.
 ```bash
-less file1 file2 file3 file4
+less F1.txt F2.txt
 ```
+** A new window opens with the content in the file** : Press `q` to quit the window.
 
 ```bash
 less file_name
 ```
 
-**We can control the navigation with the help of key.**
+**Navigation Commands while using `less`**
 1. `q`: For quit the page.
 2. `space`: for Scroll down one page.
 3. `b`: scroll up one page.
 4. `enter`: scroll down one line.
 5. `k`: scroll up one line.
 
-Note: we can search content in file with `/ content_name`
 
 ### 8. More Command
 * `more`  command in Linux used to view the contents of a file one screen at a time. It's useful for reading large files without opening them in an editor.
@@ -380,8 +380,9 @@ more file_name
 ```
 
 ```bash
-nitishkumar@Ubuntu:~$ more file1 
-hii
+sidharth@Sidharth:~/Desktop/LinuxTasks$ more F1.txt 
+this is written in F1.txt
+
 ```
 
 **Navigation Commands while using `more`**
