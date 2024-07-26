@@ -487,7 +487,7 @@ Files have three types of permissions: read (r), write (w), and execute (x). The
 
 - `chown [owner] [file]`: Change file owner.
 
-## Examples
+## More Examples for better understanding:
 
 ### File Management Commands
 
