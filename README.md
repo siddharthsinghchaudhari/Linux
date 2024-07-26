@@ -31,8 +31,8 @@ Linux is a powerful and versatile operating system used widely for both personal
 ## Installation Process
 
 (For Virtual Machines)
-1. **Download ISO**: Obtain the installation ISO from the Ubuntu's official website.
-2. **Download VMware Workstation 17 player**: from official website of VMware
+1. **Download ISO**: Obtain the installation ISO from the Ubuntu's official website. https://ubuntu.com/download/desktop
+2. **Download VMware Workstation 17 player**: from official website of VMware.  https://www.vmware.com/info/workstation-player/evaluation
 3. **Open the VMware workstation 17 player** and select **Create new Virtual Machine**
 4. **Select the ISO file you downloade in first step**
 5. **Follow through the instructions and set according to your need or go with default options**: I have given my screenshots for any reference.
