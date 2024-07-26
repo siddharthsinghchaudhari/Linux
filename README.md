@@ -47,12 +47,12 @@ Linux is a powerful and versatile operating system used widely for both personal
 ## Basic Command Line Usage
 
 ### Navigating the Filesystem
-![Screenshot from 2024-06-26 12-58-42](https://github.com/siddharthsinghchaudhari/Linux/assets/120357061/4ee45f34-5c69-4acf-b1cb-b34ef79e28cd)
+
 
 - `pwd`: Print working directory.
 - `cd [directory]`: Change directory.
 - `ls`: List directory contents.
-
+![Screenshot from 2024-06-26 12-58-42](https://github.com/siddharthsinghchaudhari/Linux/assets/120357061/4ee45f34-5c69-4acf-b1cb-b34ef79e28cd)
 
 `UPDATED COMMANDS`
 
@@ -444,13 +444,13 @@ sidharth@Sidharth:~/Desktop/LinuxTasks$ echo $a
 
 
 ## Managing Local Users and Groups
-![Screenshot from 2024-06-26 13-19-49](https://github.com/siddharthsinghchaudhari/Linux/assets/120357061/510ac52e-606b-48cd-95b9-3d212fe32a93)
-
 
 ### Adding Users
 
 - `useradd [username]`: Create a new user.
 - `passwd [username]`: Set a password for a user.
+
+![Screenshot from 2024-06-26 13-19-49](https://github.com/siddharthsinghchaudhari/Linux/assets/120357061/510ac52e-606b-48cd-95b9-3d212fe32a93)
 
 ### Modifying Users
 
